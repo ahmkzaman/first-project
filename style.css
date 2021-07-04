@@ -1,0 +1,50 @@
+.bg{
+    background-image: url(image/bg.jpg);
+    height: 500px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10px;
+    border-style: solid;
+    border-color: rgb(255, 0, 106);
+}
+#form{
+    text-align: center;
+    height: 550px;
+    width: 400px;
+    padding: left;
+    position: absolute;
+    left: 35%;
+    top: 10%;
+}
+#hdline{
+    font-size: 30px;
+    color: rgb(69, 12, 122);
+    font-style: normal;
+    text-shadow: 2px 2px #0993f0;
+    padding: 3px;
+}
+h4{
+    font-size: 20px ;
+    color: rgb(209, 56, 18);
+    padding: 0px;
+    text-shadow: 1px 1px rgb(58, 10, 10);
+}
+.inpt{
+    height: 40px;
+    width: 300px;
+    padding: 10px;
+    background-color: rgb(240, 209, 131);
+    border-radius: 5px;
+    border-color: rgb(47, 68, 255);
+}
+#sbt{
+    color: rgb(0, 132, 255);
+    height: 8%;
+    width: 40%;
+    font-size: 30px;
+    border-radius: 10px;
+    border-color: deeppink;
+    border-style: dotted;
+    
+}
